@@ -1,0 +1,9 @@
+{
+  "manufacturer": "Clueboard",
+  "maintainer": "skullydazed",
+  "usb": {
+    "device_version": "0.0.1",
+    "pid": "0x6090",
+    "vid": "0xC1ED"
+  }
+}
